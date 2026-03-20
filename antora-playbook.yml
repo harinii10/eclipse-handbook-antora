@@ -1,0 +1,13 @@
+site:
+  title: Eclipse Handbook
+  start_page: ROOT::index.adoc
+
+content:
+  sources:
+    - url: .
+      branches: HEAD
+      start_path: docs
+
+ui:
+  bundle:
+    url: ./antora-ui-default-master

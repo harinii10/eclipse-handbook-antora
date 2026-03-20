@@ -1,0 +1,7 @@
+= Eclipse Project Handbook
+
+Welcome to the modernized handbook.
+
+== Chapter 1
+
+This is your first Antora page 🚀
